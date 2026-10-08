@@ -1,0 +1,1 @@
+This file sits in app/. Seeing it at /ctx/APP_CONTEXT_MARKER means the build context was app/.

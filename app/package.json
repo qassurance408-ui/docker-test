@@ -1,0 +1,11 @@
+{
+  "name": "monorepo-test-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'dev: nothing to run'",
+    "build": "echo 'build: nothing to build'",
+    "preview": "echo 'preview: nothing to preview'"
+  }
+}
